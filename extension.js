@@ -2,7 +2,7 @@ const vscode = require('vscode');
 
 function activate(context) {
     const provider = vscode.languages.registerCompletionItemProvider(
-        { scheme: 'file', language: 'planet' },
+        { scheme: 'file', language: 'comet' },
         {
             provideCompletionItems(document) {
                 const variables = [];

@@ -5,7 +5,7 @@
   "author": {
     "name": "Jungha"
   },
-  "version": "0.0.1",
+  "version": "0.0.4",
   "publisher": "jungha",
   "repository": {
     "type": "git",
@@ -18,14 +18,14 @@
     "Programming Languages"
   ],
   "activationEvents": [
-    "onLanguage:planet"
+    "onLanguage:comet"
   ],
   "contributes": {
     "languages": [
       {
-        "id": "planet",
+        "id": "comet",
         "extensions": [".planet"],
-        "aliases": ["Planet", "planet"]
+        "aliases": ["Comet", "comet"]
       }
     ]
   },
