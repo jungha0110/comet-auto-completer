@@ -6,6 +6,11 @@
     "name": "Jungha"
   },
   "version": "0.0.1",
+  "publisher": "jungha0110",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jungha0110/comet-auto-completer"
+  },
   "engines": {
     "vscode": "^1.95.0"
   },
